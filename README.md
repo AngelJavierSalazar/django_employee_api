@@ -17,5 +17,5 @@ Notes:<br /><br />
 1. A function to format and ingest fixture data can be accessed at <br />
 https://github.com/AngelJavierSalazar/django-json-fixture-converter <br />
 
-2. Application of pandas groupby and other functions using empployee data <br />
+2. Application of pandas groupby and other functions using employee data <br />
 https://github.com/AngelJavierSalazar/pandas_employee_analysis.git <br />
